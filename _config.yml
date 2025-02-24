@@ -1,8 +1,8 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
-baseurl: ""
+title: Humberto Martinez Alvarez
+email: humberto.martinezach@gmail.com
+description: Academic webpage of Humberto Martinez
+baseurl: "martinezach.github.io"
 url: ""
 
 # Google analytics ID: Uncomment and your own, if you like
@@ -12,17 +12,17 @@ url: ""
 
 # Footer info
 affiliation: >
-  Richard Feynman<br/>
-  Professor of Physics<br/>
-  California Institute of Technology
+  Humberto Martinez Alvarez<br/>
+  PhD student<br/>
+  IBT, UNAM
 
 location: >
-  California Institute of Technology<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
+  Instituto de Biotecnologia<br/>
+  Avenida Universidad sn<br/>
+  Cuernavaca, Morelos 52210
 
 contact: >
-  <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
+  <a href="mailto:humberto.martinezach@gmail.com" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Humberto via email</a> <br/>
   <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar
