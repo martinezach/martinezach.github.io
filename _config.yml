@@ -1,4 +1,4 @@
-# Site settings
+v# Site settings
 title: Humberto Martinez Alvarez
 email: humberto.martinezach@gmail.com
 description: Academic webpage of Humberto Martinez
@@ -93,3 +93,4 @@ exclude:
   - switch_theme.sh
   - tags
   - Rakefile
+  - .git
