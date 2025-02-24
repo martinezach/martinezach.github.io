@@ -2,8 +2,8 @@
 title: Humberto Martinez Alvarez
 email: humberto.martinezach@gmail.com
 description: Academic webpage of Humberto Martinez
-baseurl: "martinezach.github.io"
-url: ""
+baseurl: ""
+url: "https://www.martinezach.github.io"
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
@@ -14,7 +14,7 @@ url: ""
 affiliation: >
   Humberto Martinez Alvarez<br/>
   PhD student<br/>
-  IBT, UNAM
+  IBT, UNAM.
 
 location: >
   Instituto de Biotecnologia<br/>
@@ -93,3 +93,4 @@ exclude:
   - switch_theme.sh
   - tags
   - Rakefile
+  - .git
