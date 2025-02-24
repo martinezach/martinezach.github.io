@@ -2,8 +2,8 @@
 title: Humberto Martinez Alvarez
 email: humberto.martinezach@gmail.com
 description: Academic webpage of Humberto Martinez
-baseurl: "https://github.com/martinezach/martinezach.github.io"
-url: "https://martinezach.github.io"
+baseurl: ""
+url: "https://github.com/martinezach/martinezach.github.io"
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
